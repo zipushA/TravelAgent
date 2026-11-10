@@ -48,3 +48,10 @@ cd TravelPlannerAI/backend
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
+
+
+---
+
+Repository maintained by [zipushA](https://github.com/zipushA).
+Original Git history preserved.
+
